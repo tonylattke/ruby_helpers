@@ -8,6 +8,7 @@ puts aux
 aux = Time.now
 aux = aux - 2*60*60 # Substract seconds
 puts aux
+
 ####################################### Math ############################################
 
 # Elemental numbers
@@ -38,4 +39,18 @@ Math.tan(x)
 
 ######################################## Random #########################################
 
-# Research
+r = Random.new
+
+# Random number betwen 0 and 1
+puts r.rand
+
+mylist = [4, 8, 15, 16, 23, 42]
+
+# Random sort of list
+print mylist.shuffle, "\n"
+
+# Random member of list
+puts mylist.sample
+
+# Random int on range
+puts r.rand(0...9)
