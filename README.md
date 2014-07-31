@@ -1,5 +1,8 @@
 # Ruby Helpers
 
+Interactive Console:
+irb
+
 | File name        		| Description 												   |
 | --------------------- |------------------------------------------------------------- |
 | 0_hello_world.rb 		| - Hello world to Ruby |
@@ -12,3 +15,5 @@
 | 7_libraries.rb		| - Using python libraries |
 | 8_io.rb 				| - Read standard input and manipulate files |
 | 9_value_transform.rb	| - Value to string and string to value functions |
+| 10_0_importing_files.rb	| - Class and module created for be exported |
+| 10_1_importing_files.rb	| - Class and module imported |
