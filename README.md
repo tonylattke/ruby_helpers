@@ -12,7 +12,7 @@ irb
 | 4_loops.rb			| - Using loops (While and For) |
 | 5_functions_methods.rb| - Using functions and methods |
 | 6_classes.rb			| - Creating classes and use inheritance |
-| 7_libraries.rb		| - Using python libraries |
+| 7_libraries.rb		| - Using libraries |
 | 8_io.rb 				| - Read standard input and manipulate files |
 | 9_value_transform.rb	| - Value to string and string to value functions |
 | 10_0_importing_files.rb	| - Class and module created for be exported |

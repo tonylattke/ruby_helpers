@@ -52,5 +52,7 @@ def main()
 end
 
 if __FILE__ == $0
+	params = ARGV
+	print ARGV, "\n"
 	main()
 end
